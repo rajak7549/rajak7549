@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working like a Student In SRM modinagar for MCA <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with forwarding <br>🌱 I’m currently learning java and Spring Boot <br>💬 My name is raja kumar , I am form bihar <br>⚡ Fun fact is GitHub was founded in April, 2008.
 
 <img  align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
